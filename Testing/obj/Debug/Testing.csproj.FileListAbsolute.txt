@@ -1,0 +1,6 @@
+c:\users\mithun\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+c:\users\mithun\documents\visual studio 2013\Projects\Testing\Testing\bin\Testing.dll.config
+c:\users\mithun\documents\visual studio 2013\Projects\Testing\Testing\bin\Testing.dll
+c:\users\mithun\documents\visual studio 2013\Projects\Testing\Testing\bin\Testing.pdb
+c:\users\mithun\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\Testing.dll
+c:\users\mithun\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\Testing.pdb
